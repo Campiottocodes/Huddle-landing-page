@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://6531b267e898cc11276e6794--musical-tartufo-6783d5.netlify.app/)
+- Live Site URL: [Huddle landing page](https://6531b267e898cc11276e6794--musical-tartufo-6783d5.netlify.app/)
 
 ### Built with
 
